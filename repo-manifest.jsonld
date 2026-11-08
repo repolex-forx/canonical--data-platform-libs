@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/data-platform-libs/commit/87e246a5392e9d3dd5c084a824a83c4bc1c34b77",
       "git:hexsha": "87e246a5392e9d3dd5c084a824a83c4bc1c34b77",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/data-platform-libs/commit/953f1a188c3046ffc0f9386c00b265c6f2e98381",

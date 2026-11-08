@@ -1,0 +1,7 @@
+[2026-11-08T15:00:56Z] === AST ITERATION 1 START | repo=canonical/data-platform-libs sha=87e246a5 ===
+[2026-11-08T15:00:56Z] [iter=1] PHASE START: ast repo=canonical/data-platform-libs sha=87e246a5
+[2026-11-08T15:00:56Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T15:04:17Z] [iter=1] AST chunks built count=1 triples=1718419
+[2026-11-08T15:04:17Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/87e246a5392e9d3dd5c084a824a83c4bc1c34b77/.complete
+[2026-11-08T15:04:17Z] [iter=1] PHASE END: ast elapsed_s=201 elapsed_min=3.4
+[2026-11-08T15:04:17Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
